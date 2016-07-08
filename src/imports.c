@@ -1,5 +1,4 @@
 #include <R.h>
-#include <R_ext/Rdynload.h>
 #include <checkmate.h>
 
 SEXP c_reexported_qtest(SEXP x, SEXP rule) {
